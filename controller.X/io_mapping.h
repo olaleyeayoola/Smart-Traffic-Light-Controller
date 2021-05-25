@@ -1,0 +1,14 @@
+#define RED_LIGHT_A RC2
+#define RED_LIGHT_B RC3
+#define RED_LIGHT_C RD3
+#define RED_LIGHT_D RD2
+
+#define GREEN_LIGHT_A RC0
+#define GREEN_LIGHT_B RC5
+#define GREEN_LIGHT_C RD5
+#define GREEN_LIGHT_D RD0
+
+#define YELLOW_LIGHT_A RC1
+#define YELLOW_LIGHT_B RC4
+#define YELLOW_LIGHT_C RD4
+#define YELLOW_LIGHT_D RD1
